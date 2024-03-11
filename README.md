@@ -1,2 +1,2 @@
 # OpenYTU
-This is written  for Yıldız Technical University by me that a open source a computer vision library.
+This is written  for Yıldız Technical University by me that an open source a computer vision library.
